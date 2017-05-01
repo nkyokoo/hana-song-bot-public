@@ -7,9 +7,9 @@ ___
 <br>**d.va help**      :: returns list of commands
 <br>**d.va ping**      :: returns pong!
 ___
-#faq
+# faq
 ___
-##to-do
+# to-do
 <br>**d.va avatar**    :: Returns the avatar of the mentioned user or yourself!
 <br>**d.va 8ball**     :: Random answer
 <br>**d.va slap**      :: SLAP!

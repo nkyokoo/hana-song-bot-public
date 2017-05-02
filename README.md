@@ -6,13 +6,13 @@ ___
 <br>**d.va info**      :: returns bot info.
 <br>**d.va help**      :: returns list of commands
 <br>**d.va ping**      :: returns pong!
+<br>**d.va ask**       :: ask d.va something. 
 ___
 # faq
 ___
 # to-do
-<br>**d.va avatar**    :: Returns the avatar of the mentioned user or yourself!
-<br>**d.va 8ball**     :: Random answer
-<br>**d.va slap**      :: SLAP!
+<br>**d.va avatar**    :: return avatar.
+<br>**d.va slap**      :: slaps a user
 ___
 
 

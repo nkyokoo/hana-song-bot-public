@@ -7,12 +7,13 @@ ___
 <br>**d.va help**      :: returns list of commands
 <br>**d.va ping**      :: returns pong!
 <br>**d.va ask**       :: ask d.va something. 
+<br>**d.va avatar**    :: returns avatar of a mentioned user or yourself if not mentioned a user
 ___
-# faq
+### faq
 ___
-# to-do
-<br>**d.va avatar**    :: return avatar.
-<br>**d.va slap**      :: slaps a user
+### to-do
+
+<br>**d.va slap**      :: slaps a mentioned user 
 ___
 
 
